@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there, I'm Nikolai ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+##Data scientiest | NLP Engineer from Russia
 <!--
 **nfilin480/nfilin480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
