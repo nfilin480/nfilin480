@@ -17,8 +17,8 @@ Projects:
 
 
 Hacks:
- - App for generating covers for videos, avatars and banners for a channel.
- - App for transcribing lectures and generating an abstract with a glossary.
+ - [App for generating covers for videos, avatars and banners for a channel](https://github.com/Dungeon-MASSters/MASSter)
+ - [App for transcribing lectures and generating an abstract with a glossary](https://github.com/Dungeon-MASSters/MASSistant)
 <!--
 **nfilin480/nfilin480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
