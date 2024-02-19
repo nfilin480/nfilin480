@@ -10,10 +10,10 @@
  - SQL, GIT, Docker
 
 Projects:
-- Summarizing Arctic news resources.
-- Сlassification of the sentiments of the news resources "Lenta".
-- Car price prediction and the avito parser.
-- Generating test tasks in the subject area: "Python and data analysis".
+- [Summarizing Arctic news resources] (https://github.com/nfilin480/arctic_news)
+- [Сlassification of the sentiments of the news resources "Lenta"] (https://github.com/nfilin480/sentiment_analysis_lenta)
+- [Car price prediction and the avito parser] (https://github.com/nfilin480/carPrice_pred)
+- [Generating test tasks in the subject area: "Python and data analysis"]
 
 
 Hacks:
