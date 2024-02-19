@@ -1,4 +1,4 @@
-# Hi there, I'm Nikolai ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Hi there, I'm Nikolai 
 ### ML Engineer (NLP) | Data scientiest from Russia 🇷🇺
 
 #### Skills:
