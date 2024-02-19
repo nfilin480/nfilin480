@@ -3,6 +3,12 @@
 
 #### Skills:
 
+ - Python + (numpy, pandas, matplotlib, seaborn ...)
+ - ML (sklearn, AutoML, CatBoost, XGBoost, LightGBM)
+ - DL (Transformers, PyTorch, HuggingFace)
+ - NLP: nltk, stanza, fasttext, pymorphy, Gigachat API, LLM
+ - SQL, GIT, Docker
+
 <!--
 **nfilin480/nfilin480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
