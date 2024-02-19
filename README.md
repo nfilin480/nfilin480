@@ -9,6 +9,16 @@
  - NLP: nltk, stanza, fasttext, pymorphy, Gigachat API, LLM
  - SQL, GIT, Docker
 
+Projects:
+- Summarizing Arctic news resources.
+- Сlassification of the sentiments of the news resources "Lenta".
+- Car price prediction and the avito parser.
+- Generating test tasks in the subject area: "Python and data analysis".
+
+
+Hacks:
+ - App for generating covers for videos, avatars and banners for a channel.
+ - App for transcribing lectures and generating an abstract with a glossary.
 <!--
 **nfilin480/nfilin480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
